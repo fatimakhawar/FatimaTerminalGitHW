@@ -1,1 +1,1 @@
-# FatimaTerminalGitHW
+# This is my terminal hw 
